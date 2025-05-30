@@ -1,0 +1,1 @@
+SELECT * FROM transporte_system.ventas;
